@@ -1,0 +1,13 @@
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.class
+*.pyc
+__pycache__/
+build/
+dist/
+*.swp
+*.swo
+*~

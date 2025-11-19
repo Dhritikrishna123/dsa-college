@@ -21,3 +21,4 @@ int main() {
     printf("Element found at index: %d\n", result);
     return 0;
 }
+// Updated on 2026-04-22

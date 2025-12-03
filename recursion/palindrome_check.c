@@ -15,3 +15,4 @@ int main() {
     printf("%s is %s\n", str, isPalindrome(str, 0, len - 1) ? "palindrome" : "not palindrome");
     return 0;
 }
+// Updated on 2026-04-22
